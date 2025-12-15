@@ -35,8 +35,6 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pranshukamalanup&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshukamalanup&theme=dark&hide_border=false&layout=compact)
-
 ---
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=pranshukamalanup&icon=0&color=0)](https://visitcount.itsvg.in)
