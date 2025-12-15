@@ -7,8 +7,6 @@
 
 🛠️ **Experienced in:** backend system design, API creation, data handling & integrations
 
-📫 **Reach me on:** LinkedIn
-
 😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:** When I’m not coding, I enjoy watching and playing cricket, online gaming, and travelling
