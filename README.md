@@ -1,12 +1,12 @@
 # 💫 About Me
 
-👋 Hi there, I’m **Pranshu Kamal**  
-🔭 Backend-focused **PHP Developer** with **5 years of experience**  
-💬 Ask me about **PHP, Laravel, CodeIgniter, REST APIs, MySQL**  
-🛠️ Experienced in **dashboard creation, website development & API integrations**  
-📫 Reach me on **LinkedIn**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: I enjoy **debugging and optimizing backend logic** more than writing fresh code  
+👋 Hi there, I’m Pranshu Kamal
+🔭 Backend-focused PHP Developer with 5 years of experience
+💬 Ask me about PHP, Laravel, CodeIgniter, REST APIs, MySQL
+🛠️ Experienced in backend system design, API creation, data handling & integrations
+📫 Reach me on LinkedIn
+😄 Pronouns: He/Him
+⚡ Fun fact: When I’m not coding, I enjoy watching and playing cricket, online gaming, and travelling
 
 ---
 
