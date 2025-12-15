@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranshukamalanup&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranshukamalanup&theme=dark&hide_border=false&include_all_commits=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pranshukamalanup&theme=dark&hide_border=false)
 
